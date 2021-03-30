@@ -1,7 +1,6 @@
 var http = require('http');
 var https = require('https');
 var qs = require('querystring');
-exports = module.exports = {}
 
 var settings = {
 	setAccessToken: function (access_token){
@@ -214,8 +213,10 @@ var cities = {
 
 }
 
-exports.payment = payment;
-exports.customer = customer;
-exports.subscription = subscription;
-exports.cities = cities;
-exports.settings = settings;
+module.exports = {
+	payment: payment,
+	customer: customer,
+	subscription: subscription,
+	cities: cities,
+	settings: settings
+}

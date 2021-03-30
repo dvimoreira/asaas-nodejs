@@ -1,6 +1,6 @@
 {
   "name": "asaas-nodejs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A wrapper to Asaas API",
   "main": "index.js",
   "scripts": {
@@ -8,20 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dvimoreira/asaas-nodejs"
+    "url": "git+https://github.com/dvimoreira/asaas-nodejs.git"
   },
-  "keywords": [
-    "In",
-    "App",
-    "Billing",
-    "Billing",
-    "Payments",
-    "API",
-    "Asaas"
-  ],
-  "author": "David Moreira",
-  "license": "BSD-2-Clause",
+  "author": "David Moreira <david@bytecom.inf.br>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dvimoreira/asaas-nodejs/issues"
-  }
+  },
+  "homepage": "https://github.com/dvimoreira/asaas-nodejs#readme"
 }
