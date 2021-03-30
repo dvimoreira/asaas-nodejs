@@ -136,4 +136,4 @@ asaas.cities.getByName(name, callback);
 ```
 
 ### BASEADO NO REPOSITÓRIO DO MarcoNicolodi
-Modulo de integração Node.js baseado no reposítorio [MarcoNicolodi/asaas/nodejs-sdk](https://github.com/MarcoNicolodi/asaas-nodejs-sdk)
+Modulo de integração Node.js baseado no repositório [MarcoNicolodi/asaas/nodejs-sdk](https://github.com/MarcoNicolodi/asaas-nodejs-sdk), Todos créditos ao mesmo.
