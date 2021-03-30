@@ -7,7 +7,7 @@ Para utilizá-la, você deve fazer um cadastro para receber sua Access Token.
 Para utilizar este wrapper, simplesmente inclua o módulo através de um require
 
 ```javascript
-var asaas = require('asaas-nodejs-sdk');
+var asaas = require('asaas-nodejs');
 ```
 
 Configure seu ambiente `homologacao` ou `producao` e sua access token:
